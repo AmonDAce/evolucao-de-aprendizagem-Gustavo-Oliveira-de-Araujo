@@ -35,9 +35,9 @@ de empregos.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- 
-- 
-- 
-- 
-- 
-- 
+- A gestão de tempo é que venho melhor aprendendo sobre pois estou tendo que regularizar diversas rotinas que estou tendo ultimamente e tenho que ajusta-las para não atrasar as aulas ou outras tarefas importantes.
+- Os metódos de string vem se provando muito útil para diversas operação nos trabalhos e exercícios que temos durantes as aulas.
+- Os metódos de array são essencias para todo código, é algo que estamos usando a todo minuto para deixar o código mais dinâmico e não ficar algo exagerado de grande.
+- Não tive a oportunidade ainda de utilzar a carta de apresentação, mas vem se provando algo que sempre podemos melhorar para cada situação e sempre surge algo novo na cabeça para melhorar ainda mais.
+- As typagens vem se mostrando que estão em todo lugar e que são essenciais para diminuir qualquer risco de dar alguma problema no código e para idenficar erros.
+- As soft skills são algo que eu sempre tive mas venho aperfeiçoando ainda mais pois ganhar um esclarecimento maior do quão importante é desenvolve-las.
